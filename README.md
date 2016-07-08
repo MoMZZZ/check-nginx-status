@@ -24,6 +24,6 @@ location /nginx_status {
 - reading		Nginx当前读取客户端的连接数
 - writing		Nginx当前相应数据到客户端的连接数
 - waiting		Nginx已经处理完正在等候下一次请求指令的驻留连接
-- accepets		总共处理的连接数
+- accepts		总共处理的连接数
 - handled		成功创建的握手数
 - requests		总共处理的请求
